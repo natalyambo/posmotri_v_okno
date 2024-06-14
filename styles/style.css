@@ -38,6 +38,8 @@ ol {
 }
 
 .content {
+  justify-content: center;
+  align-items: center;
   padding: 134px 30px;
   inline-size: 100%;
   display: flex;
@@ -177,7 +179,7 @@ ol {
 }
 
 .content__list {
-  max-height: 298px;
+  height: 298px;
   overflow: auto;
   position: relative;
   /* Чтобы был виден полностью outline у кнопки "Показать еще" */
