@@ -41,6 +41,7 @@ ol {
 }
 
 .content {
+  padding: 0px 30px;
   inline-size: 100%;
   display: flex;
   flex-direction: row;
